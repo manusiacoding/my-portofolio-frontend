@@ -1,0 +1,22 @@
+
+<template>
+    <!-- ======= Header ======= -->
+    <header id="header" class="d-flex flex-column justify-content-center">
+
+        <nav id="navbar" class="navbar nav-menu">
+            <ul>
+                <li><a v-scroll-to="'#hero'" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a>
+                </li>
+                <li><a v-scroll-to="'#about'" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
+                <li><a v-scroll-to="'#resume'" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a>
+                </li>
+                <li><a v-scroll-to="'#portfolio'" class="nav-link scrollto"><i class="bx bx-book-content"></i>
+                        <span>Portfolio</span></a>
+                </li>
+                <li><a v-scroll-to="'#services'" class="nav-link scrollto"><i class="bx bx-award"></i> <span>Awards</span></a>
+                </li>
+            </ul>
+        </nav><!-- .nav-menu -->
+
+    </header><!-- End Header -->
+</template>

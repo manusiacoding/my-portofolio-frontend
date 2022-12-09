@@ -10,6 +10,7 @@ import Skill from './components/Skill.vue'
 import Resume from './components/Resume.vue'
 import Portfolio from './components/Portfolio.vue'
 import Service from './components/Service.vue'
+import Contact from './components/Contact.vue'
 </script>
 
 <template>
@@ -28,6 +29,8 @@ import Service from './components/Service.vue'
     <Portfolio />
 
     <Service />
+
+    <Contact />
 
   </main>
 

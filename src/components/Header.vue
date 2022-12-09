@@ -20,7 +20,7 @@
                     <a v-scroll-to="'#services'" class="nav-link scrollto"><i class="bx bx-award"></i> <span>Awards</span></a>
                 </li>
                 <li>
-                    <a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a>
+                    <a v-scroll-to="'#contact'" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a>
                 </li>
             </ul>
         </nav><!-- .nav-menu -->

@@ -1,4 +1,4 @@
-# portofolio-frontend
+# My Portfolio (Front-End)
 
 ## Project setup
 ```

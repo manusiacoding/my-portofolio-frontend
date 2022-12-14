@@ -19,9 +19,9 @@
                 <li>
                     <a v-scroll-to="'#services'" class="nav-link scrollto"><i class="bx bx-award"></i> <span>Awards</span></a>
                 </li>
-                <li>
+                <!-- <li>
                     <a v-scroll-to="'#contact'" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a>
-                </li>
+                </li> -->
             </ul>
         </nav><!-- .nav-menu -->
 

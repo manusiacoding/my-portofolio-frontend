@@ -30,7 +30,7 @@ import Contact from './components/Contact.vue'
 
     <Service />
 
-    <Contact />
+    <!-- <Contact /> -->
 
   </main>
 
